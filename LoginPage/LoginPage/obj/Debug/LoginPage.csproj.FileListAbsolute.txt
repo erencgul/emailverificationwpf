@@ -1,0 +1,16 @@
+C:\Users\eren\source\repos\LoginPage\LoginPage\bin\Debug\LoginPage.exe.config
+C:\Users\eren\source\repos\LoginPage\LoginPage\bin\Debug\LoginPage.exe
+C:\Users\eren\source\repos\LoginPage\LoginPage\bin\Debug\LoginPage.pdb
+C:\Users\eren\source\repos\LoginPage\LoginPage\bin\Debug\MaterialSkin.dll
+C:\Users\eren\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.Form1.resources
+C:\Users\eren\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.Properties.Resources.resources
+C:\Users\eren\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.csproj.GenerateResource.cache
+C:\Users\eren\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.csproj.CoreCompileInputs.cache
+C:\Users\eren\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.csproj.CopyComplete
+C:\Users\eren\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.exe
+C:\Users\eren\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.pdb
+C:\Users\eren\source\repos\LoginPage\LoginPage\bin\Debug\userpass.mdf
+C:\Users\eren\source\repos\LoginPage\LoginPage\bin\Debug\userpass_log.ldf
+C:\Users\eren\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.creatAccount.resources
+C:\Users\eren\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.csprojAssemblyReference.cache
+C:\Users\eren\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.main.resources
